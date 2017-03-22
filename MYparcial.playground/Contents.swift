@@ -8,6 +8,8 @@ var  nota1 = 100
 var nota3 = 100
 var nota4 = 100
 var nota5 = 100
+var resultado = (nota1+nota3+nota4+nota5)/4
+var promedio:Bool = resultado == 100
 
 
 
